@@ -1,0 +1,47 @@
+
+
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "New study shows how blood cancer can progress, from chronic to aggressive, in some - Economic Times",
+        "description": "For a small percentage, the slower-paced disease can transform into aggressive cancer.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/new-study-shows-how-blood-cancer-can-progress-from-chronic-to-aggressive-in-some/articleshow/96647064.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-96647086,width-1070,height-580,imgsize-17678,overlay-etpanache/photo.jpg",
+        "publishedAt": "2022-12-31T14:12:00Z",
+        "content": "WASHINGTON: Researchers have identified an important transition point in the shift from chronic to aggressive blood cancer by conducting experiments in mice, providing a new intervention point for ha… [+4199 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "PTI",
+        "title": "50-70% of those under 19 years globally still susceptible to SARS-CoV-2: Study - Moneycontrol",
+        "description": "It also found that worldwide seroprevalence estimates varied from 7.3 per cent in the first wave of the COVID-19 pandemic to 37.6 per cent in the fifth wave and 56.6 per cent in the sixth wave.",
+        "url": "https://www.moneycontrol.com/news/world/50-70-of-those-under-19-years-globally-still-susceptible-to-sars-cov-2-study-9793081.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/08/Child-wearing-ill-fitted-mask-that-offers-no-protection-via-Wikimedia-commons-2048px-Coronavirus_children_mask-770x433.jpg",
+        "publishedAt": "2022-12-31T13:54:31Z",
+        "content": "Fifty to 70 per cent \"children\" below 19 years globally were susceptible to the SARS-CoV-2 infection by the end of 2021 and before the Omicron wave, showing a need for more effective vaccines and bet… [+4251 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Poulomi Ghosh",
+        "title": "'When Narendra Modi's father died in 1989...': VHP leader recalls - Hindustan Times",
+        "description": "In 1989, Narendra Modi attended a party meeting soon after the funeral of his father, VHP leader Dilip Trivedi recalled as on Friday PM Modi inaugurated West Bengal projects hours after the last rites of his mother Heeraben. | Latest News India",
+        "url": "https://www.hindustantimes.com/india-news/when-narendra-modi-s-father-died-in-1989-vhp-leader-recalls-101672464508724.html",
+        "urlToImage": "https://images.hindustantimes.com/img/2022/12/31/1600x900/ANI-20221230214-0_1672464623695_1672464623695_1672464644089_1672464644089.jpg",
+        "publishedAt": "2022-12-31T05:33:19Z",
+        "content": "In 1989, when Narendra Modi's father died, he came for a meeting after the funeral as he did on Friday, following the demise of his mother Heeraben, Vishwa Hindu Parishad general secretary Dilip Triv… [+1592 chars]"
+      }
+    ]
+  }
